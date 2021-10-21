@@ -1,2 +1,2 @@
-# My Projects
+# Assignments
 My programs
